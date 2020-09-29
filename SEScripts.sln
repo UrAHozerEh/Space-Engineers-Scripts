@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClearAssemblers", "FirstScript\ClearAssemblers.csproj", "{5AB3B1F0-002F-4250-A6D0-A5065F25A015}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IngotTracker", "IngotTracker\IngotTracker.csproj", "{26867B75-6D27-4699-9768-BA36C2D60EA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AB3B1F0-002F-4250-A6D0-A5065F25A015}.Debug|x64.ActiveCfg = Debug|x64
+		{5AB3B1F0-002F-4250-A6D0-A5065F25A015}.Debug|x64.Build.0 = Debug|x64
+		{26867B75-6D27-4699-9768-BA36C2D60EA0}.Debug|x64.ActiveCfg = Debug|x64
+		{26867B75-6D27-4699-9768-BA36C2D60EA0}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEF07B73-EB34-4B2F-88CF-686E9A79DD07}
+	EndGlobalSection
+EndGlobal
