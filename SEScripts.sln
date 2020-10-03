@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClearAssemblers", "FirstScr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IngotTracker", "IngotTracker\IngotTracker.csproj", "{26867B75-6D27-4699-9768-BA36C2D60EA0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinerMonitor", "MinerMonitor\MinerMonitor.csproj", "{5932BB6A-9EEE-4DB5-B31E-AA8B68A2148F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoorAutoClose", "DoorAutoClose\DoorAutoClose.csproj", "{76AF4237-D118-48D9-93BF-C0A567D9721E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -16,6 +20,10 @@ Global
 		{5AB3B1F0-002F-4250-A6D0-A5065F25A015}.Debug|x64.Build.0 = Debug|x64
 		{26867B75-6D27-4699-9768-BA36C2D60EA0}.Debug|x64.ActiveCfg = Debug|x64
 		{26867B75-6D27-4699-9768-BA36C2D60EA0}.Debug|x64.Build.0 = Debug|x64
+		{5932BB6A-9EEE-4DB5-B31E-AA8B68A2148F}.Debug|x64.ActiveCfg = Debug|x64
+		{5932BB6A-9EEE-4DB5-B31E-AA8B68A2148F}.Debug|x64.Build.0 = Debug|x64
+		{76AF4237-D118-48D9-93BF-C0A567D9721E}.Debug|x64.ActiveCfg = Debug|x64
+		{76AF4237-D118-48D9-93BF-C0A567D9721E}.Debug|x64.Build.0 = Debug|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
